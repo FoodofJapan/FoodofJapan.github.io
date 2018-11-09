@@ -1,0 +1,30 @@
+<html>
+<title>Yuba</title>
+<style type='text/css'>
+#title
+{
+	font-size: 76px;
+	color: red;
+	font-family: impact;
+	position: absolute;
+	left:42%;
+	top:10%;
+}
+</style>
+<div id='title'>Yuba</div>
+<body bgcolor='lightblue'></body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<center><body>Anchovies are added together to the rice grains before they get steamed. Some would add in seasonal vegetables in it too. This rice dish can be eaten throughout the whole year. The anchovies come in many sizes but we'll let you on a handy tip on how to know if you are getting fresh anchovies in your iriko meshi. Fresh irikos are usually shaped like the 'he' Hiragana character. </body></center>
+<br>
+<center><img src="meshi.jpeg"></center>
+<br>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/droK6yrrfdE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+</html>
